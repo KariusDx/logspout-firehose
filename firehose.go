@@ -1,4 +1,4 @@
-package logspoutfirehose
+package firehose
 
 import (
 	"encoding/json"
